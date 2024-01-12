@@ -11,7 +11,7 @@ Spring Term 2024
 
 
 
-**Course materials:** Brightspace and git repository on https://github.com/UVic-CompPhys
+**Course materials:** Brightspace and git repository on https://github.com/fherwig/ASTR404_24 (send me your github user name and I will add you to the repository).
 
 **Class times:** Tue, Fri 3:00-4:20pm Ell 161
 
