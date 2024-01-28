@@ -25,7 +25,7 @@ Tuesday Jan 30 | Kippenhahn & Weigert Section 4.2
 * For the Tuesday quiz know
     - how to calculate the mean molecular weight for a mix of a few elements that may be partially ionized
     - remind yourself what the scaling relation between T and M/R is, either from the virial theorem or from the combination of ideal gas and hydro-static equilibrium
-* not for the quiz but for homework 1 coming soon: review `/user/scratch14_outreach/ASTR404_W24/notebooks/Star_explore_MESA.ipynb` (make a copy); this notebook can also in this repo in the notebooks folder
+* Not for the quiz but for homework 1 coming soon: review `/user/scratch14_outreach/ASTR404_W24/notebooks/Star_explore_MESA.ipynb` (make a copy); this notebook is also in this repo in the notebooks folder
 
 
 
