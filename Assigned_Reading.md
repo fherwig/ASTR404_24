@@ -28,9 +28,13 @@ Tuesday Jan 30 | Kippenhahn & Weigert Section 4.2
 * Not for the quiz but for homework 1 coming soon: review `/user/scratch14_outreach/ASTR404_W24/notebooks/Star_explore_MESA.ipynb` (make a copy); this notebook is also in this repo in the notebooks folder
 
 
-
-
-
+#### For Friday Feb 2
+Reading for Friday is about the main nuclear burning stages: H burning, He burning, C, Ne, O and Si burning. A reasonably short account is given for each burning stage in the textbook by Maeder which is in our Resources file and available online. Read the following sections and be prepared to summarize each burning stage and its key reactions briefly, verbally. You do not need to memorize any of the $\epsilon$ energy generation formulae but you may want to look for the temperature dependence (exponents) and how they are different for different burning stages. These temperature exponents express how sensitive the nuclear energy generation rate is to changes in the temperature. 
+* 25.1.1 The pp Chains
+* 25.1.3 The CNO Cycles
+* 26.1 Helium Burning
+* 28.1 Nuclear Reactions in the Advanced Phases
+* 28.2.1 Toward the “Onion Skin” Model
 
 
 
