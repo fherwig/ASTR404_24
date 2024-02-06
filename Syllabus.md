@@ -53,10 +53,10 @@ Specifics of the format and expectations regarding the graded items related to t
 | ----------------------------------- | ------------------- | ------- |
 | Quizzes                             | Each week Tue 20min | 20   |
 | Class participation and discussions | Each Fri            | 5    |
-|  Four team-of-two home work problems| TBD | 20 |
+|  Four team-of-two home work problems| 02/15, 02/26, 03/06, 03/14  | 20 |
 | Final exam                          | TBD                 | 30     |
-| Project presentation                | Nov 28              | 5   |
-| Student project                     | April 10            | 20     |
+| Project presentation                | April 5 (10+3min each, this calss will be 30min longer and April 2 will be 30min shorter, if there are no conflicts)    | 5   |
+| Student project                     | April 17            | 20     |
 
 * In order to pass the course you must get a pass grade in quizzes. There will be 11 quizzes starting on Jan 16. The quizzes will be the average of the best 8. Missed quizzes will get a 0% grade. 
 * The teams for the team-of-two home work problems will be randomly determined for each of the four HW assignments. Students who have individual needs that should be considered regarding the team assignment should make this known to the instructor before Jan 16.
