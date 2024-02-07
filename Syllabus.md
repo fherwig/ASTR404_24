@@ -4,7 +4,7 @@ Spring Term 2024
 
 **Instructor:** Falk Herwig (fherwig@uvic.ca)
 
-**Office hour:** Wed 10:30-11:30am
+**Office hour:** Thu noon - 1:00pm
 
 **Prerequisites:**
 <img src="Syllabus.assets/image-20240109120352813.png" alt="image-20240109120352813" style="zoom:50%;" />
