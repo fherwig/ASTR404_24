@@ -40,3 +40,6 @@ Reading for Friday is about the main nuclear burning stages: H burning, He burni
 
 #### For Tuesday Feb 6 
 For this week's quiz there is no new reading, but as said in class, study the movie in the notes (found stand alone in the Notebooks_Movies directory) and identify burning stages in that movies based on what you learned about the fuel and ashes of the different burning products. In the quiz I will give you one of the frames and ask you what burning stages are active, and where. 
+
+#### For Friday Feb 9 
+Chapter 1 and 2 of the Annual Review article _The s Process and Beyond_ by Lugaro et al. 2023. The paper pdf can be found in the (renamed) `Notebook_Movies_Papers` directory.
