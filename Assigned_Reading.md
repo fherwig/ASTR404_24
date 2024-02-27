@@ -46,7 +46,7 @@ Chapter 1 and 2 of the Annual Review article _The s Process and Beyond_ by Lugar
 
 #### Class notes for week starting Feb 26
 ##### HW1 updates needed
-* All but team 2 need to update their HW1 submission by Thursday Feb 29, 9pm according the **Update** given in [HW-teams.md](./HW-teams.md)
+* All but team 2 need to update their HW1 submission by Wednesday Feb 28, 9pm according the **Update** given in [HW-teams.md](./HW-teams.md)
 ##### Quiz this week
 The quiz this week will take place on Friday based on the following reading. 
 ##### Reading for March 1st
