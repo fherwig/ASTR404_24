@@ -8,7 +8,7 @@ Rename the homework notebook to `HWn_teamk.ipynb` where `n` is the HW number and
 
 All problems should be answered in this notebook, see `ASTR404_24/4.Stellar_evolution_models_Astrohub.md`. Upload the notebook into your Outreach Hub session and save in the "username_config" directory. Once completed just leave them in that directory and I will grab it out of there myself. 
 
-There will be **one** answer notebook per team. However, each team member must have the team answer notebook in their "username_config" and I will copy one team notebook from one team member. If a team member has no answer notebook they will get zero points for that HW. 
+There will be **one** answer notebook per team. However, each team member must have the team answer notebook in their "username_config" and I will copy one team notebook from one team member. If a team member has no answer notebook they will get zero points for that HW. **Update:** _If the notebooks called `HWn_teamk.ipynb` are not the same when using `diff` then all team members get zero points for that HW._ 
 
 Please go to this [OneDrive Excel sheet](https://uvic-my.sharepoint.com/:x:/g/personal/fherwig_uvic_ca/ERmUVw8TZltKssJnrOhxjtsBMxl-Dea-SeKxn5CiGib81A?e=7DoaPw) (needs uvic netlink login) and enter your GitHub user name. Please do so asap and let me know if you have problems with this. I need this info to grab the notebooks out of your config dir. 
 

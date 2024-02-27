@@ -43,3 +43,26 @@ For this week's quiz there is no new reading, but as said in class, study the mo
 
 #### For Friday Feb 9 
 Chapter 1 and 2 of the Annual Review article _The s Process and Beyond_ by Lugaro et al. 2023. The paper pdf can be found in the (renamed) `Notebook_Movies_Papers` directory.
+
+#### Class notes for week starting Feb 26
+##### HW1 updates needed
+* All but team 2 need to update their HW1 submission by Thursday Feb 29, 9pm according the **Update** given in [HW-teams.md](./HW-teams.md)
+##### Quiz this week
+The quiz this week will take place on Friday based on the following reading. 
+##### Reading for March 1st
+* Chapters 1.2, 1.3 and 1.4 in Conny Aerts book "Asteroseismology"
+* I recommend reading chapter 1.1, it is fun, but if you under time pressure you could skip it
+
+#### Process for selecting your project topic 
+* on the April 5 quiz I will ask you for your initial project idea, you could change it later
+* in the April 8 class I will ask you about some brief summary of your project idea to explain to the class and get a question or comment
+* on the April 12 quiz I ask you to write down the final project title and a one-sentence summary of the project goals
+
+#### Selection of topics for 2nd half of course
+* extreme stars, magnetic stars, quark stars
+* asteroseismology
+* binary stellar evolution
+* DM and stellar objects
+* supernova
+* low-mass stars
+* PISN, low-Z, enrichment of the ISM
