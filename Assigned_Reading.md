@@ -50,7 +50,7 @@ Chapter 1 and 2 of the Annual Review article _The s Process and Beyond_ by Lugar
 ##### Quiz this week
 The quiz this week will take place on Friday based on the following reading. 
 ##### Reading for March 1st
-* Chapters 1.2, 1.3 and 1.4 in Conny Aerts book "Asteroseismology"
+* Chapters 1.2, 1.3 and 1.4.1 to 1.4.3 in Conny Aerts book "Asteroseismology"
 * I recommend reading chapter 1.1, it is fun, but if you under time pressure you could skip it
 
 #### Process for selecting your project topic 
