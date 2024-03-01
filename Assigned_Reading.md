@@ -54,9 +54,9 @@ The quiz this week will take place on Friday based on the following reading.
 * I recommend reading chapter 1.1, it is fun, but if you under time pressure you could skip it
 
 #### Process for selecting your project topic 
-* on the April 5 quiz I will ask you for your initial project idea, you could change it later
-* in the April 8 class I will ask you about some brief summary of your project idea to explain to the class and get a question or comment
-* on the April 12 quiz I ask you to write down the final project title and a one-sentence summary of the project goals
+* on the March 5 quiz I will ask you for your initial project idea, you could change it later
+* in the March 8 class I will ask you about some brief summary of your project idea to explain to the class and get a question or comment
+* on the March 12 quiz I ask you to write down the final project title and a one-sentence summary of the project goals
 
 #### Selection of topics for 2nd half of course
 * extreme stars, magnetic stars, quark stars

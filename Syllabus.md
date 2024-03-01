@@ -55,7 +55,7 @@ Specifics of the format and expectations regarding the graded items related to t
 | Class participation and discussions | Each Fri            | 5    |
 |  Four team-of-two home work problems| 02/15, 03/01, 03/06, 03/14  | 20 |
 | Final exam                          | TBD                 | 30     |
-| Project presentation                | April 5 (10+3min each, this calss will be 30min longer and April 2 will be 30min shorter, if there are no conflicts)    | 5   |
+| Project presentation                | April 5 (10+3min each, this class will be 30min longer and April 2 will be 30min shorter, if there are no conflicts) | 5   |
 | Student project                     | April 17            | 20     |
 
 * In order to pass the course you must get a pass grade in quizzes. There will be 11 quizzes starting on Jan 16. The quizzes will be the average of the best 8. Missed quizzes will get a 0% grade. 

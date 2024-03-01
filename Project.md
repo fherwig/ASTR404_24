@@ -2,7 +2,7 @@
 
 # Project
 
-
+###### 
 
 ## Elements of the research proposal
 
@@ -19,7 +19,8 @@ Part 3 and 4 would be ideally based on some _rapid proto-typing_ of some ideas.
 
 Here are some key points to consider that I will use in finding my grade:
 
-* Content of presentation:
+* ##### Content of presentation:
+   
    - Motivate the problem, why is it interesting, what is the impact, why should anyone care
    - Describe the state of the art: what have other researchers done about it? This could be at the level of an advanced textbook, book chapter or review article.
    - What are your goals and objective?
