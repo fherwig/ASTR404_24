@@ -23,7 +23,7 @@ Part 3 and 4 would be ideally based on some _rapid proto-typing_ of some ideas.
 Here are some key points to consider that I will use in finding my grade:
 
 * ##### Content of presentation:
-   
+  
    - Motivate the problem, why is it interesting, what is the impact, why should anyone care
    - Describe the state of the art: what have other researchers done about it? This could be at the level of an advanced textbook, book chapter or review article.
    - What are your goals and objective?
@@ -94,3 +94,66 @@ Follow these guidelines as much as possible:
 * MESA stellar evolution runs (need to keep it simple!)
 * Analysis of hydro data on the ppmstar.org virtual research platform, e.g. the CoCo Hub
 * Literature project investigating a special topic
+
+## Project ideas
+
+* Something on Pop III stars
+* Using MESA for Pop III stars
+* Origin of Mg or K
+* Asteroseismology of extreme stars, e.g. rapidly rotating stars
+* Effects of DM on stellar processes
+* Stellar lifetimes from red dwarfs to giants
+* Ca production in Pop III stars
+* Conditions at the high-mass termination of the n-capture nucleosynthesis
+* How would $4^{th}$ generation (metal-rich?) stars look like?
+
+### Pop III stars
+
+#### Ca production
+
+![image-20240308142203060](Project.assets/image-20240308142203060.png)
+
+![image-20240308142309075](Project.assets/image-20240308142309075.png)
+
+CNO breakout at $^{19}$F
+
+https://cococubed.com/code_pages/burn_hydrogen.shtml
+
+
+
+https://ui.adsabs.harvard.edu/abs/2018MNRAS.474L..37C/abstract
+
+![image-20240308141845586](Project.assets/image-20240308141845586.png)
+
+https://ui.adsabs.harvard.edu/abs/2021PhRvC.103e5815D/abstract
+
+![image-20240308143230523](Project.assets/image-20240308143230523.png)
+
+https://ui.adsabs.harvard.edu/abs/2022Natur.610..656Z/abstract
+
+![image-20240308143505746](Project.assets/image-20240308143505746.png)
+
+![image-20240308143700115](Project.assets/image-20240308143700115.png)
+
+#### Pop III C isotopic ratios
+
+![image-20240308144217757](Project.assets/image-20240308144217757.png)
+
+![image-20240308144321547](Project.assets/image-20240308144321547.png)
+
+### Effects of DM on stellar processes
+
+https://ui.adsabs.harvard.edu/abs/2023ApJ...959..113B/abstract
+
+![image-20240308144609307](Project.assets/image-20240308144609307.png)
+
+![image-20240308144950381](Project.assets/image-20240308144950381.png)
+
+### Conditions at the high-mass termination of the n-capture nucleosynthesis
+
+https://ui.adsabs.harvard.edu/abs/2024PhRvL.132e2701V/abstract
+
+![image-20240308145225972](Project.assets/image-20240308145225972.png)
+
+![image-20240308145247729](Project.assets/image-20240308145247729.png)
+
