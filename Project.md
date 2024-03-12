@@ -157,3 +157,37 @@ https://ui.adsabs.harvard.edu/abs/2024PhRvL.132e2701V/abstract
 
 ![image-20240308145247729](Project.assets/image-20240308145247729.png)
 
+### Origin of Mg or K
+
+**Mg** is a so-called **$\alpha$ element** and is used as one of several proxies for nucleosynthesis in massive stars; one can find literature of stellar observations, typically in a galactic chemical evolution (GCE) context, where O, Mg, Si, Ca and sometimes even Ti are used interchangeable. It would be interesting to investigate how these so-called $\alpha$​​​ elements really correlate in the NuGrid models in massive stars.
+
+This [APOGEE paper](https://doi.org/10.3847/1538-4357/aa7ddc) gives and example for a GCE analysis of the Sagittarius Dwarf Galaxy:
+
+![image-20240312142526483](Project.assets/image-20240312142526483.png)
+
+![image-20240312142412937](Project.assets/image-20240312142412937.png)
+
+
+
+![image-20240312142332931](Project.assets/image-20240312142332931.png)
+
+![image-20240312142350541](Project.assets/image-20240312142350541.png)
+
+
+
+* The origin of K and nearby odd-Z elements is still not entirely clear. Galactic chemical evolution simulations are notoriously short of K, P, Cl and Sc. One proposal to solve this was the convective-reactive nucleosynthesis as part of a O-C convection shell merger https://ui.adsabs.harvard.edu/abs/2018MNRAS.474L...1R/abstract
+
+![image-20240312134346397](Project.assets/image-20240312134346397.png)
+
+![image-20240312134412716](Project.assets/image-20240312134412716.png)
+
+This nucleosynthesis site is based on 3D hydrodynamic simulations by [Andrassy+ 20](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491..972A/abstract) 
+
+![image-20240312140027291](Project.assets/image-20240312140027291.png)
+
+![image-20240312140120636](Project.assets/image-20240312140120636.png)
+
+![image-20240312140148763](Project.assets/image-20240312140148763.png)
+
+It would be possible to run an existing nucleosynthesis multi-zone simulation, which produces output equivalent to the NuGrid post-processing output. A student could run the simulation on the astrohub, each run would take maybe an hour or so. The student could pick some reactions and change their value and explore the impact this would have on the predicted abundances.
+
