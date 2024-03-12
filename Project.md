@@ -191,3 +191,11 @@ This nucleosynthesis site is based on 3D hydrodynamic simulations by [Andrassy+ 
 
 It would be possible to run an existing nucleosynthesis multi-zone simulation, which produces output equivalent to the NuGrid post-processing output. A student could run the simulation on the astrohub, each run would take maybe an hour or so. The student could pick some reactions and change their value and explore the impact this would have on the predicted abundances.
 
+### Asteroseismology of rotating stars
+
+Have a look at the review article [Angular Momentum Transport in Stellar Interiors Show affiliations](https://ui.adsabs.harvard.edu/abs/2019ARA%26A..57...35A/abstract)
+
+An example for the rotational splitting <img src="Project.assets/image-20240312144437089.png" alt="image-20240312144437089" style="zoom:50%;" />
+
+![image-20240312144135439](Project.assets/image-20240312144135439.png)
+
