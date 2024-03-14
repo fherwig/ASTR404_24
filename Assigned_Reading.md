@@ -54,11 +54,10 @@ The quiz this week will take place on Friday based on the following reading.
 * I recommend reading chapter 1.1, it is fun, but if you under time pressure you could skip it
 
 #### Process for selecting your project topic 
-* on the March 5 quiz I will ask you for your initial project idea, you could change it later
-* in the March 12 class I will ask you about some brief summary of your project idea to explain to the class and get a question or comment
-* on the March 15 quiz I ask you to write down the final project title and a one-sentence summary of the project goals
+* see information in the document `Project.md`
 
-#### Selection of topics for 2nd half of course
+
+#### Selection of possible topics for 2nd half of course
 * extreme stars, magnetic stars, quark stars
 * asteroseismology
 * binary stellar evolution
@@ -66,3 +65,11 @@ The quiz this week will take place on Friday based on the following reading.
 * supernova
 * low-mass stars
 * PISN, low-Z, enrichment of the ISM
+
+
+#### Reading for Friday March 15
+In Conny Aerts' text book _Asteroseismology_ read section _3.1.3.2 Perturbation Analysis_ and 
+_3.1.4.2 Internal Gravity Waves_. Section 3.1.3.2 builds on some of the previous content of section 3.1 that we have already covered earlier in class. But you may want to skim over that as part of you review, as needed. In your reading of section 3.1.4.2 focus on the lead-up to and derivation of equation 3.72. The remaining part of the section is interesting but could be read more superficially.
+
+
+
