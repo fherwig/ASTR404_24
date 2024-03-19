@@ -53,7 +53,7 @@ Specifics of the format and expectations regarding the graded items related to t
 | ----------------------------------- | ------------------- | ------- |
 | Quizzes                             | Each week Tue 20min | 20   |
 | Class participation and discussions | Each Fri            | 5    |
-|  Four team-of-two home work problems| 02/15, 03/01, 03/11, 03/18  | 20 |
+|  Four team-of-two home work problems| 02/15, 03/01, 03/11, 03/25  | 20 |
 | Final exam                          | TBD                 | 30     |
 | Project presentation                | April 5 (10+3min each, this class will be 30min longer and April 2 will be 30min shorter, if there are no conflicts) | 5   |
 | Student project                     | April 17            | 20     |
