@@ -24,10 +24,10 @@ There are due dates posted in the Syllabus and at the head of each HW. These are
 * Team 4:  ['Sarnav, Nazli', 'Siddiqui, Zaina', 'Rasmussen, Ben']
 
 ### Homework 2
-Team 1:  ['Hallman, Zoe',"D'Aoust, Lina" ]
-Team 2:  ['Siddiqui, Zaina', 'Klazek-Schryer, Kyran']
-Team 3:  ['Wijetunga, Dushan', 'Bakke, Owen']
-Team 4:  ['Cousins, Andrew', 'Rasmussen, Ben', 'Sarnav, Nazli']
+* Team 1:  ['Hallman, Zoe',"D'Aoust, Lina" ]
+* Team 2:  ['Siddiqui, Zaina', 'Klazek-Schryer, Kyran']
+* Team 3:  ['Wijetunga, Dushan', 'Bakke, Owen']
+* Team 4:  ['Cousins, Andrew', 'Rasmussen, Ben', 'Sarnav, Nazli']
 
 ### Homework 3
 * Team 1:  ["D'Aoust, Lina", 'Sarnav, Nazli']
